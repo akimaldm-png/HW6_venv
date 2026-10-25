@@ -6,3 +6,6 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+
+# Personal notes
+notes.md
